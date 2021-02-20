@@ -1,0 +1,25 @@
+
+.login__screen {
+    height: 100%;
+    width: 100%;
+display: grid;
+
+}
+
+.login__screen > svg {
+    transform: scale(0.3);
+    text-align: center;
+    margin: auto;
+}
+
+#firebaseui_container > div > div.firebaseui-card-content > form > ul > li > button {
+    margin: 5px;
+    border-radius: 20px;
+}
+
+
+#firebaseui_container > div > div.firebaseui-card-content {
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+
